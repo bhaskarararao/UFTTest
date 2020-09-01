@@ -10,3 +10,4 @@ local4
 local5
 remote3
 addded
+local6

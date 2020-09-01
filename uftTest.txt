@@ -12,3 +12,4 @@ remote3
 addded
 local6
 remote4
+local7

@@ -14,3 +14,4 @@ local6
 local7
 Local8
 remote6
+remote7
